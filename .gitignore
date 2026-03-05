@@ -1,0 +1,13 @@
+# 虚拟环境
+venv/
+env/
+# 日志文件
+*.log
+# IDE配置
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+# 敏感配置
+config.yaml
+.env
